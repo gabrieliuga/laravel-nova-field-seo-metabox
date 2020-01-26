@@ -16,7 +16,7 @@ class SeoMetabox extends Panel
         if (in_array('Giuga\LaravelSeoMetaBox\Traits\HasSeo', class_uses(get_class($model)))) {
             parent::__construct($name, [
                 Text::make('Title', 'seo.title')->hideFromIndex(),
-                Textarea::make('Description', 'seo.description')->hideFromIndex()
+                Textarea::make('Description', 'seo.description')->hideFromIndex(),
             ]);
         }
     }

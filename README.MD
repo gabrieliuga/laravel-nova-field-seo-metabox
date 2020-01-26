@@ -1,6 +1,7 @@
 # Laravel nova field seo metabox
 
 [![Quality Score](https://img.shields.io/scrutinizer/g/gabrieliuga/laravel-nova-field-seo-metabox.svg?style=flat-square)](https://scrutinizer-ci.com/g/gabrieliuga/laravel-nova-field-seo-metabox)
+[![StyleCI](https://github.styleci.io/repos/235898613/shield?branch=master)](https://github.styleci.io/repos/235898613)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/gabrieliuga/laravel-nova-field-seo-metabox.svg?style=flat-square)](https://packagist.org/packages/gabrieliuga/laravel-nova-field-seo-metabox)
 [![Total Downloads](https://img.shields.io/packagist/dt/gabrieliuga/laravel-nova-field-seo-metabox.svg?style=flat-square)](https://packagist.org/packages/gabrieliuga/laravel-nova-field-seo-metabox)
 
