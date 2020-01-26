@@ -1,0 +1,32 @@
+{
+    "name": "gabrieliuga/laravel-nova-field-seo-metabox",
+    "description": "A Laravel Nova field.",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.2",
+        "gabrieliuga/laravel-seo-meta-box": "^1.0",
+        "laravel/framework": "^6.2",
+        "laravel/nova": "^2.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Giuga\\LaravelNovaSeoMetaboxField\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Giuga\\LaravelNovaSeoMetaboxField\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
