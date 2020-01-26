@@ -47,6 +47,12 @@ class Example extends Resource
 }
 ```
 
+### Nova view:
+
+![Laravel nova panel view](https://github.com/gabrieliuga/laravel-nova-field-seo-metabox/blob/master/screenshot.png)
+
+
+
 ### Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
